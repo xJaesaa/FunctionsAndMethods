@@ -1,0 +1,16 @@
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.exe
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.deps.json
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.runtimeconfig.json
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.runtimeconfig.dev.json
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.dll
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\ref\functionsandmethods.dll
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\bin\Debug\net5.0\functionsandmethods.pdb
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.csprojAssemblyReference.cache
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.AssemblyInfoInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.AssemblyInfo.cs
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.csproj.CoreCompileInputs.cache
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.dll
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\ref\functionsandmethods.dll
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.pdb
+D:\FoldersnShit\TAFE_Work\Programming\FunctionsAndMethods\obj\Debug\net5.0\functionsandmethods.genruntimeconfig.cache
